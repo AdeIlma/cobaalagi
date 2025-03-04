@@ -6,4 +6,4 @@ cvxpy
 scipy
 scikit-learn
 matplotlib
-pypfopt==1.5.5
+PyPortfolioOpt==1.5.5
